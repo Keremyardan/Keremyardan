@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/keremyardan/](https://www.linkedin.com/in/keremyardan/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
