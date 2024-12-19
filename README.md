@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keremyardan" alt="keremyardan" /></a> </p>
 
-- 💬 Ask me about **Java, Java Spring Boot, Javascript, React and React Native**
+- 💬 Ask me about **Java, Java Spring Boot, Javascript, React, React Native and PHP**
 
 - 📫 How to reach me **keremyrdn@hotmail.com**
 
