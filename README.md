@@ -2,10 +2,6 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=keremyardan&label=Profile%20views&color=0e75b6&style=flat" alt="keremyardan" />
-</p>
-
-<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=keremyardan" alt="keremyardan" />
   </a>
@@ -80,10 +76,4 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=keremyardan&show_icons=true&locale=en&layout=compact"
-       alt="keremyardan" />
 </p>
